@@ -1,9 +1,8 @@
-# Numix Hermes - Material IRC client
+# Material UI IRC client
 
-**DOWNLOAD FROM GOOGLE PLAY:** https://play.google.com/store/apps/details?id=org.numixproject.hermes
 
 **BETTER MOBILE IRC EXPERIENCE:**
-Hermes is a IRC app created to be feature rich, yet be very easy to use. Everything is just a tap or two away and the design makes your experience pleasant.
+MUI is a IRC app created to be feature rich, yet be very easy to use. Everything is just a tap or two away and the design makes your experience pleasant.
 
 **SIMPLE, YET VERSATILE:**
 You will find that Hermes can do everything most IRC clients and even more.
@@ -19,6 +18,3 @@ Some of the key features are:
 
 **ANDROID INTEGRATION:**
 Hermes is fully material designed, follows Google's design guidelines and integrates perfectly with Android Lollipop services and notifications. If you are running pre Lollipop Android you will still get material designed app.
-
-**NO PAYMENT REQUIRED:**
-You can use Hermes complete functionality for free. If you wish to remove the ads, use the "Remove ads" function.
